@@ -1,6 +1,7 @@
 ***POETIC COMPUTATION IN LIVE CODING***
 bibliography
 
+Allick, Katrina. “What Is Poetic Computation?” Medium, Sfpc, 31 Oct. 2016, https://medium.com/sfpc/what-is-poetic-computation-2284fcf7086c.  
 
 Caccia, Laura. “Is Code Poetry the New Avant-Garde? | Laura Caccia | Tedxlondon.” YouTube, YouTube, 19 July 2018, https://www.youtube.com/watch?v=OPyS5dVOpp4.
 
@@ -23,5 +24,3 @@ Oduro, Kofi. “WCCChallenge: Azulejos: Invertedazulejos.” YouTube, YouTube, 2
 Oduro, Kofi. “WCCChallenge: Text Adventure - Quadrant Readings.” YouTube, YouTube, 6 Nov. 2022, https://www.youtube.com/watch?v=R2p63ZW0KCA.
 
 Oduro, Kofi. “WCCChallenge: Text Adventure.” Code Is Poetry &amp; Data Is Poetry, Code Is Poetry &amp; Data Is Poetry, 6 Nov. 2022, https://blog.illestpreacha.com/wccchallenge-text-adventure.
-
-Allick, Katrina. “What Is Poetic Computation?” Medium, Sfpc, 31 Oct. 2016, https://medium.com/sfpc/what-is-poetic-computation-2284fcf7086c.  
