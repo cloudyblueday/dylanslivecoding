@@ -21,4 +21,7 @@ d6 $ n "2 1" # s "outdoor"
 
 there will probably be more added by next thursday, but these are the bones of the backing. my plan is also, for the outro, to very quickly delete all lines of code except the first one with one snazzy hand gesture.
 
-basically, i plan to type up these few lines of code, once it's all there, i start singing and playing guitar, and then i delete all lines of code except the first ambiencey one, and thats the show.
+basically, i plan to type up these few lines of code, once it's all there, i start singing and playing guitar, and then i delete all lines of code except the first ambiencey one, and thats the show. i do not know what else to document in my documentation: my hopes are that my throat/voice recovers from me being sick in time ... that the performance, though minimal in live coding, still looks live-codey... i really am interested to experiment with what it means to work with the tools at your disposal: can a girl be a one man band just by drumming up a few lines of code with the very basic default dirt samples? maybe this is Simpler than live looping. this is like making music in TERMINAL.
+
+i'm curious. wish me luck.
+✧
